@@ -6,10 +6,10 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/EstebanD4.https://github.com/EstebanD4)
+![visitors]((https://api.visitorbadge.io/api/visitors?path=github.com%2FEstebanD4&countColor=%23263759)
 
 </p>
-<div size='20px'> Hi! My name is EstebanDufau. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Esteban Dufau. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
