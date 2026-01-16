@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZHpzcmd1YTdqbTlwcHJ6Z3Zqc2Y3Y21tM29ieXR0aTZlZTV0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZHpzcmd1YTdqbTlwcHJ6Z3Zqc2Y3Y21tM29ieXR0aTZlZTV0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif)" />
+<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZHpzcmd1YTdqbTlwcHJ6Z3Zqc2Y3Y21tM29ieXR0aTZlZTV0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
 
 - 🔭 I’m currently working on - Building small cyber-oriented applications and tools
