@@ -6,7 +6,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2F3nz0k&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2EstebanD4&countColor=%23263759)
 
 </p>
 <div size='20px'> Hi! My name is Esteban Dufau. Thank You for taking the time to view my GitHub Profile :smile: 
