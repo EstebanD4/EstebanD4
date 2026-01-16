@@ -65,11 +65,7 @@
        width="40" height="40">
 </h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanD4&compact=true"
-  />
-</p>
+<figure><embed src="https://wakatime.com/share/@EstebanD4/a8243a92-6179-4ff5-b0d8-dfe2a688e3b4.svg"></embed></figure>
 
 
 
