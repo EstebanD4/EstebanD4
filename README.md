@@ -59,11 +59,18 @@
 <a href = 'https://github.com/EstebanD4'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/EstebanD4/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
+<h2 align="center">
+  Stuff I worked on last week
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif"
+       width="40" height="40">
+</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@EstebanD4&compact=true"
+  />
+</p>
+
 
 
 <h2> My GitHub Stats </h2>
