@@ -66,7 +66,8 @@
 </h2>
 
 <p align="center">
-  <embed src="https://wakatime.com/share/@EstebanD4/a8243a92-6179-4ff5-b0d8-dfe2a688e3b4.svg">
+.. image:: https://wakatime.com/share/@EstebanD4/a33c7981-decc-41de-a625-9cf959ef9776.png
+    :target: https://wakatime.com/
 </p>
 
 
