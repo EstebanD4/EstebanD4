@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Esteban Dufau. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZHpzcmd1YTdqbTlwcHJ6Z3Zqc2Y3Y21tM29ieXR0aTZlZTV0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width = 100px height='100px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
