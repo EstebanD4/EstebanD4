@@ -67,7 +67,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=@EstebanD4&compact=true"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanD4&compact=true"
   />
 </p>
 
