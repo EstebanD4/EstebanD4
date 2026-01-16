@@ -38,5 +38,5 @@ My goal is to make security **approachable, concrete and useful** through real p
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- GitHub: https://github.com/EstebanD4/EstebanD4
+- LinkedIn: https://www.linkedin.com/in/esteban-dufau-367420347/
