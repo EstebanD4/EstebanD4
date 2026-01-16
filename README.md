@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Esteban
 
-<!--
-**EstebanD4/EstebanD4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Application Developer (Cyber-oriented)
 
-Here are some ideas to get you started:
+I build **applications and small tools** with a strong focus on **security, automation and practical cyber use-cases**.  
+My goal is to make security **approachable, concrete and useful** through real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: Python, Rust, Java, php, react, c++, html, css,   
+- **Backend & Tools**: Docker, CI/CD, APIs, server like ubuntu  
+- **Focus**: secure design, automation, cyber-aware development
+- **framework**: symfony, tauri
+
+---
+
+## 🚀 Projects
+
+### 🔐 Cyber-oriented projects
+- Security-focused applications
+- Automation tools for everyday cyber use-cases
+- Learning-by-building security concepts
+
+### 🛠 Small tools
+- CLI utilities
+- Scripts & helpers
+- Experimental and learning projects
+
+---
+
+## 🧠 How I work
+- Build first, secure by design
+- Simple solutions > over-engineering
+- Security as a feature, not a constraint
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
